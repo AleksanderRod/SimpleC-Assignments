@@ -1,0 +1,44 @@
+Enter largest range value [1-100000]: 10
+Enter search target: 7
+
+1-5-10
+6-8-10
+6-6-7
+7-7-7
+GOT IT!
+
+Run Again (Y/N): Y
+
+
+Enter largest range value [1-100000]: 100
+Enter search target: 32
+
+1-50-100
+1-25-49
+26-37-49
+26-31-36
+32-34-36
+32-32-33
+GOT IT!
+
+Run Again (Y/N): Y
+
+
+Enter largest range value [1-100000]: 1000
+Enter search target: 70
+
+1-500-1000
+1-250-499
+1-125-249
+1-62-124
+63-93-124
+63-77-92
+63-69-76
+70-73-76
+70-71-72
+70-70-70
+GOT IT!
+
+Run Again (Y/N): N
+
+
